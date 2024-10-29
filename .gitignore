@@ -5,3 +5,4 @@ data/
 models/
 .DS_Store
 *.zip
+.ipynb_checkpoints/
