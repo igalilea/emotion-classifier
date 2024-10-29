@@ -6,3 +6,4 @@ models/
 .DS_Store
 *.zip
 .ipynb_checkpoints/
+notebooks/borrador.ipynb
