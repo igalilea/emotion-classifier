@@ -7,3 +7,4 @@ models/
 *.zip
 .ipynb_checkpoints/
 notebooks/borrador.ipynb
+notebooks/OLD_02_preprocessing.ipynb
